@@ -1,4 +1,4 @@
-##Olá, eu sou Caio Alves
+##Olá, eu sou Caio Alves, um desenvolvedor front end em desenvolvimento :)
 
 <div align="center">
   <a href="https://github.com/caiop4k">
