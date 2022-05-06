@@ -1,11 +1,8 @@
 ##Olá, eu sou Caio Alves, um desenvolvedor front end em desenvolvimento :)
 
-Possuo conhecimentos em:
-<img src="https://img.icons8.com/color/2/000000/html-5--v1.png"/> HTML
-PHP
-BOOTSTRAP
-JAVASCRIPT
-CSS.
+Possuo conhecimentos em HTML <img src="https://img.icons8.com/color/25/000000/html-5--v1.png"/>, CSS <img src="https://img.icons8.com/color/25/000000/css3.png"/>, BOOTSTRAP <img src="https://img.icons8.com/color/25/000000/bootstrap.png"/>, JAVASCRIPT <img src="https://img.icons8.com/color/25/000000/javascript--v1.png"/>.
+
+Tenho como próxima meta aprender REACT <img src="https://img.icons8.com/office/25/000000/react.png"/>.
 
 ![image](https://user-images.githubusercontent.com/72303016/167211242-f46f1a8f-be60-4891-96e9-a3b34d120936.png)
 
